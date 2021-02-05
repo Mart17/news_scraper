@@ -1,7 +1,10 @@
 {
-  "name": "news scraper",
+  "name": "news_scraper",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Martin Suja <mart17@users.noreply.github.com>",
-  "license": "MIT"
+  "author": "Martin Suja",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.0.1"
+  }
 }
